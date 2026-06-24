@@ -1,0 +1,4 @@
+run,model,pooling,loss,chunks,micro_f1,macro_f1,error
+02_bertje,GroNLP/bert-base-dutch-cased,mean,bce,3.0,0.8955,0.603,
+03_focal,DTAI-KULeuven/robbert-2023-dutch-base,mean,focal,3.0,0.8862,0.5849,
+04_eurobert,,,,,,,'NoneType' object cannot be interpreted as an integer

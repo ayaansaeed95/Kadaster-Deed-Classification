@@ -1,0 +1,21 @@
+{
+  "model_name": "DTAI-KULeuven/robbert-2023-dutch-base",
+  "pooling": "mean",
+  "content_size": 510,
+  "stride": 460,
+  "max_chunks": 8,
+  "epochs": 15,
+  "lr": 2e-05,
+  "warmup_ratio": 0.1,
+  "weight_decay": 0.01,
+  "batch_size": 16,
+  "grad_accum": 4,
+  "loss": {
+    "type": "bce",
+    "gamma": 2.0
+  },
+  "pos_weight_cap": 200.0,
+  "thresh_min_support": 5,
+  "gradient_checkpointing": true,
+  "sample_size": null
+}

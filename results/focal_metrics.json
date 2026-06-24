@@ -1,0 +1,696 @@
+{
+  "method": "03_focal",
+  "micro_f1": 0.8862,
+  "macro_f1": 0.5849,
+  "active_labels": 56,
+  "per_class": [
+    {
+      "code": 504,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 508,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 509,
+      "precision": 0.5,
+      "recall": 0.3333,
+      "f1": 0.4,
+      "support": 3,
+      "method": "03_focal"
+    },
+    {
+      "code": 512,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 516,
+      "precision": 0.8431,
+      "recall": 0.9348,
+      "f1": 0.8866,
+      "support": 46,
+      "method": "03_focal"
+    },
+    {
+      "code": 517,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 12,
+      "method": "03_focal"
+    },
+    {
+      "code": 518,
+      "precision": 0.9565,
+      "recall": 0.88,
+      "f1": 0.9167,
+      "support": 25,
+      "method": "03_focal"
+    },
+    {
+      "code": 524,
+      "precision": 0.3333,
+      "recall": 0.2,
+      "f1": 0.25,
+      "support": 5,
+      "method": "03_focal"
+    },
+    {
+      "code": 527,
+      "precision": 0.9905,
+      "recall": 0.972,
+      "f1": 0.9811,
+      "support": 107,
+      "method": "03_focal"
+    },
+    {
+      "code": 529,
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1": 0.6667,
+      "support": 2,
+      "method": "03_focal"
+    },
+    {
+      "code": 532,
+      "precision": 0.5233,
+      "recall": 0.7377,
+      "f1": 0.6122,
+      "support": 61,
+      "method": "03_focal"
+    },
+    {
+      "code": 536,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 1,
+      "method": "03_focal"
+    },
+    {
+      "code": 537,
+      "precision": 0.9912,
+      "recall": 0.9934,
+      "f1": 0.9923,
+      "support": 454,
+      "method": "03_focal"
+    },
+    {
+      "code": 538,
+      "precision": 0.9355,
+      "recall": 0.9062,
+      "f1": 0.9206,
+      "support": 64,
+      "method": "03_focal"
+    },
+    {
+      "code": 539,
+      "precision": 1.0,
+      "recall": 0.2,
+      "f1": 0.3333,
+      "support": 5,
+      "method": "03_focal"
+    },
+    {
+      "code": 540,
+      "precision": 1.0,
+      "recall": 0.3333,
+      "f1": 0.5,
+      "support": 3,
+      "method": "03_focal"
+    },
+    {
+      "code": 541,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 542,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 543,
+      "precision": 0.8,
+      "recall": 0.8696,
+      "f1": 0.8333,
+      "support": 23,
+      "method": "03_focal"
+    },
+    {
+      "code": 545,
+      "precision": 0.8465,
+      "recall": 0.7948,
+      "f1": 0.8198,
+      "support": 229,
+      "method": "03_focal"
+    },
+    {
+      "code": 546,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 547,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 2,
+      "method": "03_focal"
+    },
+    {
+      "code": 554,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 556,
+      "precision": 1.0,
+      "recall": 0.3333,
+      "f1": 0.5,
+      "support": 3,
+      "method": "03_focal"
+    },
+    {
+      "code": 560,
+      "precision": 0.6667,
+      "recall": 0.6667,
+      "f1": 0.6667,
+      "support": 9,
+      "method": "03_focal"
+    },
+    {
+      "code": 564,
+      "precision": 0.8835,
+      "recall": 0.9381,
+      "f1": 0.91,
+      "support": 97,
+      "method": "03_focal"
+    },
+    {
+      "code": 566,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 569,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 572,
+      "precision": 0.6239,
+      "recall": 0.7019,
+      "f1": 0.6606,
+      "support": 104,
+      "method": "03_focal"
+    },
+    {
+      "code": 579,
+      "precision": 0.7083,
+      "recall": 0.85,
+      "f1": 0.7727,
+      "support": 20,
+      "method": "03_focal"
+    },
+    {
+      "code": 580,
+      "precision": 0.7027,
+      "recall": 0.7879,
+      "f1": 0.7429,
+      "support": 33,
+      "method": "03_focal"
+    },
+    {
+      "code": 581,
+      "precision": 0.9412,
+      "recall": 0.9697,
+      "f1": 0.9552,
+      "support": 33,
+      "method": "03_focal"
+    },
+    {
+      "code": 583,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 585,
+      "precision": 0.9938,
+      "recall": 0.9816,
+      "f1": 0.9877,
+      "support": 163,
+      "method": "03_focal"
+    },
+    {
+      "code": 588,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "03_focal"
+    },
+    {
+      "code": 591,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 593,
+      "precision": 0.4,
+      "recall": 1.0,
+      "f1": 0.5714,
+      "support": 2,
+      "method": "03_focal"
+    },
+    {
+      "code": 597,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "03_focal"
+    },
+    {
+      "code": 598,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 2,
+      "method": "03_focal"
+    },
+    {
+      "code": 601,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 2,
+      "method": "03_focal"
+    },
+    {
+      "code": 604,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 2,
+      "method": "03_focal"
+    },
+    {
+      "code": 606,
+      "precision": 0.9807,
+      "recall": 0.9819,
+      "f1": 0.9813,
+      "support": 829,
+      "method": "03_focal"
+    },
+    {
+      "code": 607,
+      "precision": 0.8333,
+      "recall": 1.0,
+      "f1": 0.9091,
+      "support": 5,
+      "method": "03_focal"
+    },
+    {
+      "code": 608,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 5,
+      "method": "03_focal"
+    },
+    {
+      "code": 609,
+      "precision": 0.5714,
+      "recall": 1.0,
+      "f1": 0.7273,
+      "support": 8,
+      "method": "03_focal"
+    },
+    {
+      "code": 610,
+      "precision": 0.6364,
+      "recall": 0.7778,
+      "f1": 0.7,
+      "support": 9,
+      "method": "03_focal"
+    },
+    {
+      "code": 611,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "03_focal"
+    },
+    {
+      "code": 613,
+      "precision": 1.0,
+      "recall": 0.3333,
+      "f1": 0.5,
+      "support": 3,
+      "method": "03_focal"
+    },
+    {
+      "code": 614,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 2,
+      "method": "03_focal"
+    },
+    {
+      "code": 616,
+      "precision": 0.8182,
+      "recall": 1.0,
+      "f1": 0.9,
+      "support": 9,
+      "method": "03_focal"
+    },
+    {
+      "code": 617,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "03_focal"
+    },
+    {
+      "code": 618,
+      "precision": 0.6667,
+      "recall": 0.5,
+      "f1": 0.5714,
+      "support": 4,
+      "method": "03_focal"
+    },
+    {
+      "code": 619,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "03_focal"
+    },
+    {
+      "code": 620,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 621,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 622,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "03_focal"
+    },
+    {
+      "code": 625,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 627,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 628,
+      "precision": 0.7778,
+      "recall": 1.0,
+      "f1": 0.875,
+      "support": 7,
+      "method": "03_focal"
+    },
+    {
+      "code": 629,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 630,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 631,
+      "precision": 1.0,
+      "recall": 0.8,
+      "f1": 0.8889,
+      "support": 5,
+      "method": "03_focal"
+    },
+    {
+      "code": 633,
+      "precision": 0.0769,
+      "recall": 0.1667,
+      "f1": 0.1053,
+      "support": 6,
+      "method": "03_focal"
+    },
+    {
+      "code": 634,
+      "precision": 0.6,
+      "recall": 1.0,
+      "f1": 0.75,
+      "support": 9,
+      "method": "03_focal"
+    },
+    {
+      "code": 635,
+      "precision": 0.75,
+      "recall": 1.0,
+      "f1": 0.8571,
+      "support": 3,
+      "method": "03_focal"
+    },
+    {
+      "code": 636,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 641,
+      "precision": 0.7273,
+      "recall": 1.0,
+      "f1": 0.8421,
+      "support": 8,
+      "method": "03_focal"
+    },
+    {
+      "code": 642,
+      "precision": 0.0413,
+      "recall": 0.4167,
+      "f1": 0.0752,
+      "support": 12,
+      "method": "03_focal"
+    },
+    {
+      "code": 644,
+      "precision": 0.6667,
+      "recall": 0.7059,
+      "f1": 0.6857,
+      "support": 17,
+      "method": "03_focal"
+    },
+    {
+      "code": 649,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 651,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 652,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 653,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 655,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 656,
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1": 0.6667,
+      "support": 2,
+      "method": "03_focal"
+    },
+    {
+      "code": 661,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 662,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "03_focal"
+    },
+    {
+      "code": 663,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 667,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 668,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 1,
+      "method": "03_focal"
+    },
+    {
+      "code": 670,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 671,
+      "precision": 0.9,
+      "recall": 0.7826,
+      "f1": 0.8372,
+      "support": 23,
+      "method": "03_focal"
+    },
+    {
+      "code": 674,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "03_focal"
+    },
+    {
+      "code": 677,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 696,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    },
+    {
+      "code": 703,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "03_focal"
+    }
+  ]
+}

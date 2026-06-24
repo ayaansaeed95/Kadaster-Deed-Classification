@@ -1,0 +1,696 @@
+{
+  "method": "eurobert",
+  "micro_f1": 0.9144,
+  "macro_f1": 0.6205,
+  "active_labels": 56,
+  "per_class": [
+    {
+      "code": 504,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 508,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 509,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 3,
+      "method": "eurobert"
+    },
+    {
+      "code": 512,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 516,
+      "precision": 0.9348,
+      "recall": 0.9348,
+      "f1": 0.9348,
+      "support": 46,
+      "method": "eurobert"
+    },
+    {
+      "code": 517,
+      "precision": 0.9231,
+      "recall": 1.0,
+      "f1": 0.96,
+      "support": 12,
+      "method": "eurobert"
+    },
+    {
+      "code": 518,
+      "precision": 1.0,
+      "recall": 0.92,
+      "f1": 0.9583,
+      "support": 25,
+      "method": "eurobert"
+    },
+    {
+      "code": 524,
+      "precision": 1.0,
+      "recall": 0.2,
+      "f1": 0.3333,
+      "support": 5,
+      "method": "eurobert"
+    },
+    {
+      "code": 527,
+      "precision": 0.9464,
+      "recall": 0.9907,
+      "f1": 0.968,
+      "support": 107,
+      "method": "eurobert"
+    },
+    {
+      "code": 529,
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1": 0.6667,
+      "support": 2,
+      "method": "eurobert"
+    },
+    {
+      "code": 532,
+      "precision": 0.54,
+      "recall": 0.8852,
+      "f1": 0.6708,
+      "support": 61,
+      "method": "eurobert"
+    },
+    {
+      "code": 536,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 1,
+      "method": "eurobert"
+    },
+    {
+      "code": 537,
+      "precision": 1.0,
+      "recall": 0.9868,
+      "f1": 0.9933,
+      "support": 454,
+      "method": "eurobert"
+    },
+    {
+      "code": 538,
+      "precision": 0.9483,
+      "recall": 0.8594,
+      "f1": 0.9016,
+      "support": 64,
+      "method": "eurobert"
+    },
+    {
+      "code": 539,
+      "precision": 1.0,
+      "recall": 0.2,
+      "f1": 0.3333,
+      "support": 5,
+      "method": "eurobert"
+    },
+    {
+      "code": 540,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 3,
+      "method": "eurobert"
+    },
+    {
+      "code": 541,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 542,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 543,
+      "precision": 0.7931,
+      "recall": 1.0,
+      "f1": 0.8846,
+      "support": 23,
+      "method": "eurobert"
+    },
+    {
+      "code": 545,
+      "precision": 0.8673,
+      "recall": 0.8559,
+      "f1": 0.8615,
+      "support": 229,
+      "method": "eurobert"
+    },
+    {
+      "code": 546,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 547,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 2,
+      "method": "eurobert"
+    },
+    {
+      "code": 554,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 556,
+      "precision": 1.0,
+      "recall": 0.3333,
+      "f1": 0.5,
+      "support": 3,
+      "method": "eurobert"
+    },
+    {
+      "code": 560,
+      "precision": 1.0,
+      "recall": 0.6667,
+      "f1": 0.8,
+      "support": 9,
+      "method": "eurobert"
+    },
+    {
+      "code": 564,
+      "precision": 0.9789,
+      "recall": 0.9588,
+      "f1": 0.9688,
+      "support": 97,
+      "method": "eurobert"
+    },
+    {
+      "code": 566,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 569,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 572,
+      "precision": 0.7629,
+      "recall": 0.7115,
+      "f1": 0.7363,
+      "support": 104,
+      "method": "eurobert"
+    },
+    {
+      "code": 579,
+      "precision": 0.75,
+      "recall": 0.6,
+      "f1": 0.6667,
+      "support": 20,
+      "method": "eurobert"
+    },
+    {
+      "code": 580,
+      "precision": 0.8966,
+      "recall": 0.7879,
+      "f1": 0.8387,
+      "support": 33,
+      "method": "eurobert"
+    },
+    {
+      "code": 581,
+      "precision": 0.9688,
+      "recall": 0.9394,
+      "f1": 0.9538,
+      "support": 33,
+      "method": "eurobert"
+    },
+    {
+      "code": 583,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 585,
+      "precision": 0.9815,
+      "recall": 0.9755,
+      "f1": 0.9785,
+      "support": 163,
+      "method": "eurobert"
+    },
+    {
+      "code": 588,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "eurobert"
+    },
+    {
+      "code": 591,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 593,
+      "precision": 0.6667,
+      "recall": 1.0,
+      "f1": 0.8,
+      "support": 2,
+      "method": "eurobert"
+    },
+    {
+      "code": 597,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "eurobert"
+    },
+    {
+      "code": 598,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 2,
+      "method": "eurobert"
+    },
+    {
+      "code": 601,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 2,
+      "method": "eurobert"
+    },
+    {
+      "code": 604,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 2,
+      "method": "eurobert"
+    },
+    {
+      "code": 606,
+      "precision": 0.9829,
+      "recall": 0.9735,
+      "f1": 0.9782,
+      "support": 829,
+      "method": "eurobert"
+    },
+    {
+      "code": 607,
+      "precision": 0.7143,
+      "recall": 1.0,
+      "f1": 0.8333,
+      "support": 5,
+      "method": "eurobert"
+    },
+    {
+      "code": 608,
+      "precision": 0.8333,
+      "recall": 1.0,
+      "f1": 0.9091,
+      "support": 5,
+      "method": "eurobert"
+    },
+    {
+      "code": 609,
+      "precision": 0.8571,
+      "recall": 0.75,
+      "f1": 0.8,
+      "support": 8,
+      "method": "eurobert"
+    },
+    {
+      "code": 610,
+      "precision": 0.5714,
+      "recall": 0.8889,
+      "f1": 0.6957,
+      "support": 9,
+      "method": "eurobert"
+    },
+    {
+      "code": 611,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "eurobert"
+    },
+    {
+      "code": 613,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 3,
+      "method": "eurobert"
+    },
+    {
+      "code": 614,
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1": 0.6667,
+      "support": 2,
+      "method": "eurobert"
+    },
+    {
+      "code": 616,
+      "precision": 0.8,
+      "recall": 0.8889,
+      "f1": 0.8421,
+      "support": 9,
+      "method": "eurobert"
+    },
+    {
+      "code": 617,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 1,
+      "method": "eurobert"
+    },
+    {
+      "code": 618,
+      "precision": 0.8,
+      "recall": 1.0,
+      "f1": 0.8889,
+      "support": 4,
+      "method": "eurobert"
+    },
+    {
+      "code": 619,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "eurobert"
+    },
+    {
+      "code": 620,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 621,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 622,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "eurobert"
+    },
+    {
+      "code": 625,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 627,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 628,
+      "precision": 0.8,
+      "recall": 0.5714,
+      "f1": 0.6667,
+      "support": 7,
+      "method": "eurobert"
+    },
+    {
+      "code": 629,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 630,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 631,
+      "precision": 1.0,
+      "recall": 0.8,
+      "f1": 0.8889,
+      "support": 5,
+      "method": "eurobert"
+    },
+    {
+      "code": 633,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 6,
+      "method": "eurobert"
+    },
+    {
+      "code": 634,
+      "precision": 1.0,
+      "recall": 0.7778,
+      "f1": 0.875,
+      "support": 9,
+      "method": "eurobert"
+    },
+    {
+      "code": 635,
+      "precision": 0.6667,
+      "recall": 0.6667,
+      "f1": 0.6667,
+      "support": 3,
+      "method": "eurobert"
+    },
+    {
+      "code": 636,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 641,
+      "precision": 1.0,
+      "recall": 0.75,
+      "f1": 0.8571,
+      "support": 8,
+      "method": "eurobert"
+    },
+    {
+      "code": 642,
+      "precision": 0.0889,
+      "recall": 0.3333,
+      "f1": 0.1404,
+      "support": 12,
+      "method": "eurobert"
+    },
+    {
+      "code": 644,
+      "precision": 0.8125,
+      "recall": 0.7647,
+      "f1": 0.7879,
+      "support": 17,
+      "method": "eurobert"
+    },
+    {
+      "code": 649,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 651,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 652,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 653,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 655,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 656,
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1": 0.6667,
+      "support": 2,
+      "method": "eurobert"
+    },
+    {
+      "code": 661,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 662,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "eurobert"
+    },
+    {
+      "code": 663,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 667,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 668,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 1,
+      "method": "eurobert"
+    },
+    {
+      "code": 670,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 671,
+      "precision": 0.84,
+      "recall": 0.913,
+      "f1": 0.875,
+      "support": 23,
+      "method": "eurobert"
+    },
+    {
+      "code": 674,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "eurobert"
+    },
+    {
+      "code": 677,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 696,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    },
+    {
+      "code": 703,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "eurobert"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+# Pinned for reproducible installs across machines.
+# Python 3.14.x required
+# Install PyTorch first: bash install.sh (platform-specific wheels)
+
+pandas==3.0.2
+numpy==2.4.4
+scipy==1.17.1
+transformers==5.8.0
+tokenizers==0.22.2
+accelerate==1.13.0
+safetensors==0.7.0
+iterative-stratification==0.1.9
+tqdm==4.67.3
+huggingface-hub==1.14.0
+scikit-learn==1.8.0
+pyahocorasick>=2.1.0
+pyarrow==24.0.0
+openpyxl==3.1.5
+matplotlib==3.10.9
+PyYAML==6.0.3
+jupyter
+nbconvert==7.17.1
+ipykernel==7.2.0
+python-dotenv==1.2.2

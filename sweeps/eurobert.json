@@ -1,0 +1,22 @@
+{
+    "model_name": "EuroBERT/EuroBERT-210m",
+    "pooling": "mean",
+    "content_size": 8190,
+    "stride": 4096,
+    "max_chunks": 3,
+    "epochs": 4,
+    "lr": 2e-5,
+    "warmup_ratio": 0.1,
+    "weight_decay": 0.01,
+    "batch_size": 8,
+    "grad_accum": 4,
+    "loss": {
+        "type": "focal",
+        "gamma": 2.0
+    },
+    "pos_weight_cap": 10.0,
+    "thresh_min_support": 10,
+    "gradient_checkpointing": true,
+    "freeze_layers": 8,
+    "sample_size": null
+}

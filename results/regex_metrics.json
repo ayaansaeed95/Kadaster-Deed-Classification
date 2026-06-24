@@ -1,0 +1,696 @@
+{
+  "method": "regex",
+  "micro_f1": 0.8417,
+  "macro_f1": 0.472,
+  "active_labels": 56,
+  "per_class": [
+    {
+      "code": 504,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 508,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 509,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 3,
+      "method": "regex"
+    },
+    {
+      "code": 512,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 516,
+      "precision": 0.9545,
+      "recall": 0.913,
+      "f1": 0.9333,
+      "support": 46,
+      "method": "regex"
+    },
+    {
+      "code": 517,
+      "precision": 0.6429,
+      "recall": 0.75,
+      "f1": 0.6923,
+      "support": 12,
+      "method": "regex"
+    },
+    {
+      "code": 518,
+      "precision": 0.8333,
+      "recall": 0.6,
+      "f1": 0.6977,
+      "support": 25,
+      "method": "regex"
+    },
+    {
+      "code": 524,
+      "precision": 0.6667,
+      "recall": 0.4,
+      "f1": 0.5,
+      "support": 5,
+      "method": "regex"
+    },
+    {
+      "code": 527,
+      "precision": 0.9808,
+      "recall": 0.9533,
+      "f1": 0.9668,
+      "support": 107,
+      "method": "regex"
+    },
+    {
+      "code": 529,
+      "precision": 0.5,
+      "recall": 0.5,
+      "f1": 0.5,
+      "support": 2,
+      "method": "regex"
+    },
+    {
+      "code": 532,
+      "precision": 0.6,
+      "recall": 0.541,
+      "f1": 0.569,
+      "support": 61,
+      "method": "regex"
+    },
+    {
+      "code": 536,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 1,
+      "method": "regex"
+    },
+    {
+      "code": 537,
+      "precision": 0.9933,
+      "recall": 0.9868,
+      "f1": 0.9901,
+      "support": 454,
+      "method": "regex"
+    },
+    {
+      "code": 538,
+      "precision": 0.9273,
+      "recall": 0.7969,
+      "f1": 0.8571,
+      "support": 64,
+      "method": "regex"
+    },
+    {
+      "code": 539,
+      "precision": 1.0,
+      "recall": 0.2,
+      "f1": 0.3333,
+      "support": 5,
+      "method": "regex"
+    },
+    {
+      "code": 540,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 3,
+      "method": "regex"
+    },
+    {
+      "code": 541,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 542,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 543,
+      "precision": 0.84,
+      "recall": 0.913,
+      "f1": 0.875,
+      "support": 23,
+      "method": "regex"
+    },
+    {
+      "code": 545,
+      "precision": 0.587,
+      "recall": 0.7074,
+      "f1": 0.6416,
+      "support": 229,
+      "method": "regex"
+    },
+    {
+      "code": 546,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 547,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 2,
+      "method": "regex"
+    },
+    {
+      "code": 554,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 556,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 3,
+      "method": "regex"
+    },
+    {
+      "code": 560,
+      "precision": 0.6,
+      "recall": 0.6667,
+      "f1": 0.6316,
+      "support": 9,
+      "method": "regex"
+    },
+    {
+      "code": 564,
+      "precision": 0.8222,
+      "recall": 0.7629,
+      "f1": 0.7914,
+      "support": 97,
+      "method": "regex"
+    },
+    {
+      "code": 566,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 569,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 572,
+      "precision": 0.4298,
+      "recall": 0.4712,
+      "f1": 0.4495,
+      "support": 104,
+      "method": "regex"
+    },
+    {
+      "code": 579,
+      "precision": 0.3158,
+      "recall": 0.3,
+      "f1": 0.3077,
+      "support": 20,
+      "method": "regex"
+    },
+    {
+      "code": 580,
+      "precision": 0.7826,
+      "recall": 0.5455,
+      "f1": 0.6429,
+      "support": 33,
+      "method": "regex"
+    },
+    {
+      "code": 581,
+      "precision": 0.8846,
+      "recall": 0.697,
+      "f1": 0.7797,
+      "support": 33,
+      "method": "regex"
+    },
+    {
+      "code": 583,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 585,
+      "precision": 0.8258,
+      "recall": 0.9018,
+      "f1": 0.8622,
+      "support": 163,
+      "method": "regex"
+    },
+    {
+      "code": 588,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "regex"
+    },
+    {
+      "code": 591,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 593,
+      "precision": 0.4,
+      "recall": 1.0,
+      "f1": 0.5714,
+      "support": 2,
+      "method": "regex"
+    },
+    {
+      "code": 597,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "regex"
+    },
+    {
+      "code": 598,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 2,
+      "method": "regex"
+    },
+    {
+      "code": 601,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 2,
+      "method": "regex"
+    },
+    {
+      "code": 604,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 2,
+      "method": "regex"
+    },
+    {
+      "code": 606,
+      "precision": 0.9741,
+      "recall": 0.9517,
+      "f1": 0.9628,
+      "support": 829,
+      "method": "regex"
+    },
+    {
+      "code": 607,
+      "precision": 0.625,
+      "recall": 1.0,
+      "f1": 0.7692,
+      "support": 5,
+      "method": "regex"
+    },
+    {
+      "code": 608,
+      "precision": 1.0,
+      "recall": 0.6,
+      "f1": 0.75,
+      "support": 5,
+      "method": "regex"
+    },
+    {
+      "code": 609,
+      "precision": 0.5,
+      "recall": 0.125,
+      "f1": 0.2,
+      "support": 8,
+      "method": "regex"
+    },
+    {
+      "code": 610,
+      "precision": 0.7143,
+      "recall": 0.5556,
+      "f1": 0.625,
+      "support": 9,
+      "method": "regex"
+    },
+    {
+      "code": 611,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "regex"
+    },
+    {
+      "code": 613,
+      "precision": 1.0,
+      "recall": 0.6667,
+      "f1": 0.8,
+      "support": 3,
+      "method": "regex"
+    },
+    {
+      "code": 614,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 2,
+      "method": "regex"
+    },
+    {
+      "code": 616,
+      "precision": 0.7273,
+      "recall": 0.8889,
+      "f1": 0.8,
+      "support": 9,
+      "method": "regex"
+    },
+    {
+      "code": 617,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "regex"
+    },
+    {
+      "code": 618,
+      "precision": 0.8,
+      "recall": 1.0,
+      "f1": 0.8889,
+      "support": 4,
+      "method": "regex"
+    },
+    {
+      "code": 619,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "regex"
+    },
+    {
+      "code": 620,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 621,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 622,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "regex"
+    },
+    {
+      "code": 625,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 627,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 628,
+      "precision": 0.7143,
+      "recall": 0.7143,
+      "f1": 0.7143,
+      "support": 7,
+      "method": "regex"
+    },
+    {
+      "code": 629,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 630,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 631,
+      "precision": 0.8333,
+      "recall": 1.0,
+      "f1": 0.9091,
+      "support": 5,
+      "method": "regex"
+    },
+    {
+      "code": 633,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 6,
+      "method": "regex"
+    },
+    {
+      "code": 634,
+      "precision": 0.8333,
+      "recall": 0.5556,
+      "f1": 0.6667,
+      "support": 9,
+      "method": "regex"
+    },
+    {
+      "code": 635,
+      "precision": 0.5,
+      "recall": 0.3333,
+      "f1": 0.4,
+      "support": 3,
+      "method": "regex"
+    },
+    {
+      "code": 636,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 641,
+      "precision": 1.0,
+      "recall": 0.75,
+      "f1": 0.8571,
+      "support": 8,
+      "method": "regex"
+    },
+    {
+      "code": 642,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 12,
+      "method": "regex"
+    },
+    {
+      "code": 644,
+      "precision": 0.45,
+      "recall": 0.5294,
+      "f1": 0.4865,
+      "support": 17,
+      "method": "regex"
+    },
+    {
+      "code": 649,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 651,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 652,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 653,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 655,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 656,
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1": 0.6667,
+      "support": 2,
+      "method": "regex"
+    },
+    {
+      "code": 661,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 662,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "regex"
+    },
+    {
+      "code": 663,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 667,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 668,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.6667,
+      "support": 1,
+      "method": "regex"
+    },
+    {
+      "code": 670,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 671,
+      "precision": 0.6,
+      "recall": 0.7826,
+      "f1": 0.6792,
+      "support": 23,
+      "method": "regex"
+    },
+    {
+      "code": 674,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "regex"
+    },
+    {
+      "code": 677,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 696,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    },
+    {
+      "code": 703,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "regex"
+    }
+  ]
+}

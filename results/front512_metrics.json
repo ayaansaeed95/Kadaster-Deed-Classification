@@ -1,0 +1,696 @@
+{
+  "method": "01_front512",
+  "micro_f1": 0.8606,
+  "macro_f1": 0.597,
+  "active_labels": 56,
+  "per_class": [
+    {
+      "code": 504,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 508,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 509,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 3,
+      "method": "01_front512"
+    },
+    {
+      "code": 512,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 516,
+      "precision": 0.7925,
+      "recall": 0.913,
+      "f1": 0.8485,
+      "support": 46,
+      "method": "01_front512"
+    },
+    {
+      "code": 517,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 12,
+      "method": "01_front512"
+    },
+    {
+      "code": 518,
+      "precision": 0.88,
+      "recall": 0.88,
+      "f1": 0.88,
+      "support": 25,
+      "method": "01_front512"
+    },
+    {
+      "code": 524,
+      "precision": 0.2667,
+      "recall": 0.8,
+      "f1": 0.4,
+      "support": 5,
+      "method": "01_front512"
+    },
+    {
+      "code": 527,
+      "precision": 0.9541,
+      "recall": 0.972,
+      "f1": 0.963,
+      "support": 107,
+      "method": "01_front512"
+    },
+    {
+      "code": 529,
+      "precision": 0.3333,
+      "recall": 0.5,
+      "f1": 0.4,
+      "support": 2,
+      "method": "01_front512"
+    },
+    {
+      "code": 532,
+      "precision": 0.5484,
+      "recall": 0.8361,
+      "f1": 0.6623,
+      "support": 61,
+      "method": "01_front512"
+    },
+    {
+      "code": 536,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 1,
+      "method": "01_front512"
+    },
+    {
+      "code": 537,
+      "precision": 0.9934,
+      "recall": 0.9912,
+      "f1": 0.9923,
+      "support": 454,
+      "method": "01_front512"
+    },
+    {
+      "code": 538,
+      "precision": 0.9231,
+      "recall": 0.9375,
+      "f1": 0.9302,
+      "support": 64,
+      "method": "01_front512"
+    },
+    {
+      "code": 539,
+      "precision": 0.2,
+      "recall": 0.4,
+      "f1": 0.2667,
+      "support": 5,
+      "method": "01_front512"
+    },
+    {
+      "code": 540,
+      "precision": 1.0,
+      "recall": 0.6667,
+      "f1": 0.8,
+      "support": 3,
+      "method": "01_front512"
+    },
+    {
+      "code": 541,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 542,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 543,
+      "precision": 0.1071,
+      "recall": 0.2609,
+      "f1": 0.1519,
+      "support": 23,
+      "method": "01_front512"
+    },
+    {
+      "code": 545,
+      "precision": 0.7092,
+      "recall": 0.8734,
+      "f1": 0.7828,
+      "support": 229,
+      "method": "01_front512"
+    },
+    {
+      "code": 546,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 547,
+      "precision": 0.25,
+      "recall": 0.5,
+      "f1": 0.3333,
+      "support": 2,
+      "method": "01_front512"
+    },
+    {
+      "code": 554,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 556,
+      "precision": 0.5,
+      "recall": 0.3333,
+      "f1": 0.4,
+      "support": 3,
+      "method": "01_front512"
+    },
+    {
+      "code": 560,
+      "precision": 0.5333,
+      "recall": 0.8889,
+      "f1": 0.6667,
+      "support": 9,
+      "method": "01_front512"
+    },
+    {
+      "code": 564,
+      "precision": 0.9184,
+      "recall": 0.9278,
+      "f1": 0.9231,
+      "support": 97,
+      "method": "01_front512"
+    },
+    {
+      "code": 566,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 569,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 572,
+      "precision": 0.4294,
+      "recall": 0.6731,
+      "f1": 0.5243,
+      "support": 104,
+      "method": "01_front512"
+    },
+    {
+      "code": 579,
+      "precision": 0.5517,
+      "recall": 0.8,
+      "f1": 0.6531,
+      "support": 20,
+      "method": "01_front512"
+    },
+    {
+      "code": 580,
+      "precision": 0.6122,
+      "recall": 0.9091,
+      "f1": 0.7317,
+      "support": 33,
+      "method": "01_front512"
+    },
+    {
+      "code": 581,
+      "precision": 0.9118,
+      "recall": 0.9394,
+      "f1": 0.9254,
+      "support": 33,
+      "method": "01_front512"
+    },
+    {
+      "code": 583,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 585,
+      "precision": 0.9878,
+      "recall": 0.9939,
+      "f1": 0.9908,
+      "support": 163,
+      "method": "01_front512"
+    },
+    {
+      "code": 588,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "01_front512"
+    },
+    {
+      "code": 591,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 593,
+      "precision": 0.4,
+      "recall": 1.0,
+      "f1": 0.5714,
+      "support": 2,
+      "method": "01_front512"
+    },
+    {
+      "code": 597,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 1,
+      "method": "01_front512"
+    },
+    {
+      "code": 598,
+      "precision": 0.4,
+      "recall": 1.0,
+      "f1": 0.5714,
+      "support": 2,
+      "method": "01_front512"
+    },
+    {
+      "code": 601,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 2,
+      "method": "01_front512"
+    },
+    {
+      "code": 604,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 2,
+      "method": "01_front512"
+    },
+    {
+      "code": 606,
+      "precision": 0.9722,
+      "recall": 0.971,
+      "f1": 0.9716,
+      "support": 829,
+      "method": "01_front512"
+    },
+    {
+      "code": 607,
+      "precision": 0.625,
+      "recall": 1.0,
+      "f1": 0.7692,
+      "support": 5,
+      "method": "01_front512"
+    },
+    {
+      "code": 608,
+      "precision": 0.8,
+      "recall": 0.8,
+      "f1": 0.8,
+      "support": 5,
+      "method": "01_front512"
+    },
+    {
+      "code": 609,
+      "precision": 0.5,
+      "recall": 0.75,
+      "f1": 0.6,
+      "support": 8,
+      "method": "01_front512"
+    },
+    {
+      "code": 610,
+      "precision": 0.3889,
+      "recall": 0.7778,
+      "f1": 0.5185,
+      "support": 9,
+      "method": "01_front512"
+    },
+    {
+      "code": 611,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "01_front512"
+    },
+    {
+      "code": 613,
+      "precision": 0.5,
+      "recall": 0.6667,
+      "f1": 0.5714,
+      "support": 3,
+      "method": "01_front512"
+    },
+    {
+      "code": 614,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 2,
+      "method": "01_front512"
+    },
+    {
+      "code": 616,
+      "precision": 0.8,
+      "recall": 0.8889,
+      "f1": 0.8421,
+      "support": 9,
+      "method": "01_front512"
+    },
+    {
+      "code": 617,
+      "precision": 0.3333,
+      "recall": 1.0,
+      "f1": 0.5,
+      "support": 1,
+      "method": "01_front512"
+    },
+    {
+      "code": 618,
+      "precision": 0.5714,
+      "recall": 1.0,
+      "f1": 0.7273,
+      "support": 4,
+      "method": "01_front512"
+    },
+    {
+      "code": 619,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "01_front512"
+    },
+    {
+      "code": 620,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 621,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 622,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "01_front512"
+    },
+    {
+      "code": 625,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 627,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 628,
+      "precision": 0.875,
+      "recall": 1.0,
+      "f1": 0.9333,
+      "support": 7,
+      "method": "01_front512"
+    },
+    {
+      "code": 629,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 630,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 631,
+      "precision": 0.8333,
+      "recall": 1.0,
+      "f1": 0.9091,
+      "support": 5,
+      "method": "01_front512"
+    },
+    {
+      "code": 633,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 6,
+      "method": "01_front512"
+    },
+    {
+      "code": 634,
+      "precision": 0.5833,
+      "recall": 0.7778,
+      "f1": 0.6667,
+      "support": 9,
+      "method": "01_front512"
+    },
+    {
+      "code": 635,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.6667,
+      "support": 3,
+      "method": "01_front512"
+    },
+    {
+      "code": 636,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 641,
+      "precision": 0.75,
+      "recall": 0.75,
+      "f1": 0.75,
+      "support": 8,
+      "method": "01_front512"
+    },
+    {
+      "code": 642,
+      "precision": 0.0312,
+      "recall": 0.0833,
+      "f1": 0.0455,
+      "support": 12,
+      "method": "01_front512"
+    },
+    {
+      "code": 644,
+      "precision": 0.4828,
+      "recall": 0.8235,
+      "f1": 0.6087,
+      "support": 17,
+      "method": "01_front512"
+    },
+    {
+      "code": 649,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 651,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 652,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 653,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 655,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 656,
+      "precision": 0.5,
+      "recall": 0.5,
+      "f1": 0.5,
+      "support": 2,
+      "method": "01_front512"
+    },
+    {
+      "code": 661,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 662,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "01_front512"
+    },
+    {
+      "code": 663,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 667,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 668,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 1,
+      "method": "01_front512"
+    },
+    {
+      "code": 670,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 671,
+      "precision": 0.6667,
+      "recall": 0.6957,
+      "f1": 0.6809,
+      "support": 23,
+      "method": "01_front512"
+    },
+    {
+      "code": 674,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "01_front512"
+    },
+    {
+      "code": 677,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 696,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    },
+    {
+      "code": 703,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "01_front512"
+    }
+  ]
+}

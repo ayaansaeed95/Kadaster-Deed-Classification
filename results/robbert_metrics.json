@@ -1,0 +1,696 @@
+{
+  "method": "bert",
+  "micro_f1": 0.8204,
+  "macro_f1": 0.5519,
+  "active_labels": 56,
+  "per_class": [
+    {
+      "code": 504,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 508,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 509,
+      "precision": 0.4,
+      "recall": 0.6667,
+      "f1": 0.5,
+      "support": 3,
+      "method": "bert"
+    },
+    {
+      "code": 512,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 516,
+      "precision": 0.8824,
+      "recall": 0.9783,
+      "f1": 0.9278,
+      "support": 46,
+      "method": "bert"
+    },
+    {
+      "code": 517,
+      "precision": 0.9231,
+      "recall": 1.0,
+      "f1": 0.96,
+      "support": 12,
+      "method": "bert"
+    },
+    {
+      "code": 518,
+      "precision": 1.0,
+      "recall": 0.92,
+      "f1": 0.9583,
+      "support": 25,
+      "method": "bert"
+    },
+    {
+      "code": 524,
+      "precision": 0.2632,
+      "recall": 1.0,
+      "f1": 0.4167,
+      "support": 5,
+      "method": "bert"
+    },
+    {
+      "code": 527,
+      "precision": 0.964,
+      "recall": 1.0,
+      "f1": 0.9817,
+      "support": 107,
+      "method": "bert"
+    },
+    {
+      "code": 529,
+      "precision": 0.5,
+      "recall": 0.5,
+      "f1": 0.5,
+      "support": 2,
+      "method": "bert"
+    },
+    {
+      "code": 532,
+      "precision": 0.4583,
+      "recall": 0.9016,
+      "f1": 0.6077,
+      "support": 61,
+      "method": "bert"
+    },
+    {
+      "code": 536,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 1,
+      "method": "bert"
+    },
+    {
+      "code": 537,
+      "precision": 0.9956,
+      "recall": 0.9868,
+      "f1": 0.9912,
+      "support": 454,
+      "method": "bert"
+    },
+    {
+      "code": 538,
+      "precision": 0.7439,
+      "recall": 0.9531,
+      "f1": 0.8356,
+      "support": 64,
+      "method": "bert"
+    },
+    {
+      "code": 539,
+      "precision": 0.1429,
+      "recall": 0.4,
+      "f1": 0.2105,
+      "support": 5,
+      "method": "bert"
+    },
+    {
+      "code": 540,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 3,
+      "method": "bert"
+    },
+    {
+      "code": 541,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 542,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 543,
+      "precision": 0.2923,
+      "recall": 0.8261,
+      "f1": 0.4318,
+      "support": 23,
+      "method": "bert"
+    },
+    {
+      "code": 545,
+      "precision": 0.6103,
+      "recall": 0.9301,
+      "f1": 0.737,
+      "support": 229,
+      "method": "bert"
+    },
+    {
+      "code": 546,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 547,
+      "precision": 0.1667,
+      "recall": 0.5,
+      "f1": 0.25,
+      "support": 2,
+      "method": "bert"
+    },
+    {
+      "code": 554,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 556,
+      "precision": 1.0,
+      "recall": 0.6667,
+      "f1": 0.8,
+      "support": 3,
+      "method": "bert"
+    },
+    {
+      "code": 560,
+      "precision": 0.1333,
+      "recall": 0.6667,
+      "f1": 0.2222,
+      "support": 9,
+      "method": "bert"
+    },
+    {
+      "code": 564,
+      "precision": 0.8252,
+      "recall": 0.8763,
+      "f1": 0.85,
+      "support": 97,
+      "method": "bert"
+    },
+    {
+      "code": 566,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 569,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 572,
+      "precision": 0.3712,
+      "recall": 0.8173,
+      "f1": 0.5105,
+      "support": 104,
+      "method": "bert"
+    },
+    {
+      "code": 579,
+      "precision": 0.5135,
+      "recall": 0.95,
+      "f1": 0.6667,
+      "support": 20,
+      "method": "bert"
+    },
+    {
+      "code": 580,
+      "precision": 0.4074,
+      "recall": 1.0,
+      "f1": 0.5789,
+      "support": 33,
+      "method": "bert"
+    },
+    {
+      "code": 581,
+      "precision": 0.4342,
+      "recall": 1.0,
+      "f1": 0.6055,
+      "support": 33,
+      "method": "bert"
+    },
+    {
+      "code": 583,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 585,
+      "precision": 0.9819,
+      "recall": 1.0,
+      "f1": 0.9909,
+      "support": 163,
+      "method": "bert"
+    },
+    {
+      "code": 588,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "bert"
+    },
+    {
+      "code": 591,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 593,
+      "precision": 0.25,
+      "recall": 1.0,
+      "f1": 0.4,
+      "support": 2,
+      "method": "bert"
+    },
+    {
+      "code": 597,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.6667,
+      "support": 1,
+      "method": "bert"
+    },
+    {
+      "code": 598,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.6667,
+      "support": 2,
+      "method": "bert"
+    },
+    {
+      "code": 601,
+      "precision": 0.0769,
+      "recall": 0.5,
+      "f1": 0.1333,
+      "support": 2,
+      "method": "bert"
+    },
+    {
+      "code": 604,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 2,
+      "method": "bert"
+    },
+    {
+      "code": 606,
+      "precision": 0.9794,
+      "recall": 0.9747,
+      "f1": 0.977,
+      "support": 829,
+      "method": "bert"
+    },
+    {
+      "code": 607,
+      "precision": 0.625,
+      "recall": 1.0,
+      "f1": 0.7692,
+      "support": 5,
+      "method": "bert"
+    },
+    {
+      "code": 608,
+      "precision": 0.7143,
+      "recall": 1.0,
+      "f1": 0.8333,
+      "support": 5,
+      "method": "bert"
+    },
+    {
+      "code": 609,
+      "precision": 0.4667,
+      "recall": 0.875,
+      "f1": 0.6087,
+      "support": 8,
+      "method": "bert"
+    },
+    {
+      "code": 610,
+      "precision": 0.186,
+      "recall": 0.8889,
+      "f1": 0.3077,
+      "support": 9,
+      "method": "bert"
+    },
+    {
+      "code": 611,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "bert"
+    },
+    {
+      "code": 613,
+      "precision": 0.5,
+      "recall": 0.6667,
+      "f1": 0.5714,
+      "support": 3,
+      "method": "bert"
+    },
+    {
+      "code": 614,
+      "precision": 0.3333,
+      "recall": 1.0,
+      "f1": 0.5,
+      "support": 2,
+      "method": "bert"
+    },
+    {
+      "code": 616,
+      "precision": 0.4211,
+      "recall": 0.8889,
+      "f1": 0.5714,
+      "support": 9,
+      "method": "bert"
+    },
+    {
+      "code": 617,
+      "precision": 0.0667,
+      "recall": 1.0,
+      "f1": 0.125,
+      "support": 1,
+      "method": "bert"
+    },
+    {
+      "code": 618,
+      "precision": 0.2667,
+      "recall": 1.0,
+      "f1": 0.4211,
+      "support": 4,
+      "method": "bert"
+    },
+    {
+      "code": 619,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "bert"
+    },
+    {
+      "code": 620,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 621,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 622,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "bert"
+    },
+    {
+      "code": 625,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 627,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 628,
+      "precision": 0.7778,
+      "recall": 1.0,
+      "f1": 0.875,
+      "support": 7,
+      "method": "bert"
+    },
+    {
+      "code": 629,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 630,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 631,
+      "precision": 0.8,
+      "recall": 0.8,
+      "f1": 0.8,
+      "support": 5,
+      "method": "bert"
+    },
+    {
+      "code": 633,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 6,
+      "method": "bert"
+    },
+    {
+      "code": 634,
+      "precision": 0.3333,
+      "recall": 1.0,
+      "f1": 0.5,
+      "support": 9,
+      "method": "bert"
+    },
+    {
+      "code": 635,
+      "precision": 0.4286,
+      "recall": 1.0,
+      "f1": 0.6,
+      "support": 3,
+      "method": "bert"
+    },
+    {
+      "code": 636,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 641,
+      "precision": 0.8,
+      "recall": 1.0,
+      "f1": 0.8889,
+      "support": 8,
+      "method": "bert"
+    },
+    {
+      "code": 642,
+      "precision": 0.1818,
+      "recall": 0.3333,
+      "f1": 0.2353,
+      "support": 12,
+      "method": "bert"
+    },
+    {
+      "code": 644,
+      "precision": 0.3684,
+      "recall": 0.8235,
+      "f1": 0.5091,
+      "support": 17,
+      "method": "bert"
+    },
+    {
+      "code": 649,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 651,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 652,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 653,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 655,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 656,
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1": 0.6667,
+      "support": 2,
+      "method": "bert"
+    },
+    {
+      "code": 661,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 662,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "bert"
+    },
+    {
+      "code": 663,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 667,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 668,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 1,
+      "method": "bert"
+    },
+    {
+      "code": 670,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 671,
+      "precision": 0.6786,
+      "recall": 0.8261,
+      "f1": 0.7451,
+      "support": 23,
+      "method": "bert"
+    },
+    {
+      "code": 674,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "bert"
+    },
+    {
+      "code": 677,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 696,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    },
+    {
+      "code": 703,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "bert"
+    }
+  ]
+}

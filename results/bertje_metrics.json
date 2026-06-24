@@ -1,0 +1,696 @@
+{
+  "method": "02_bertje",
+  "micro_f1": 0.8955,
+  "macro_f1": 0.603,
+  "active_labels": 56,
+  "per_class": [
+    {
+      "code": 504,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 508,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 509,
+      "precision": 1.0,
+      "recall": 0.6667,
+      "f1": 0.8,
+      "support": 3,
+      "method": "02_bertje"
+    },
+    {
+      "code": 512,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 516,
+      "precision": 0.8113,
+      "recall": 0.9348,
+      "f1": 0.8687,
+      "support": 46,
+      "method": "02_bertje"
+    },
+    {
+      "code": 517,
+      "precision": 0.9231,
+      "recall": 1.0,
+      "f1": 0.96,
+      "support": 12,
+      "method": "02_bertje"
+    },
+    {
+      "code": 518,
+      "precision": 0.92,
+      "recall": 0.92,
+      "f1": 0.92,
+      "support": 25,
+      "method": "02_bertje"
+    },
+    {
+      "code": 524,
+      "precision": 0.5,
+      "recall": 0.4,
+      "f1": 0.4444,
+      "support": 5,
+      "method": "02_bertje"
+    },
+    {
+      "code": 527,
+      "precision": 0.9633,
+      "recall": 0.9813,
+      "f1": 0.9722,
+      "support": 107,
+      "method": "02_bertje"
+    },
+    {
+      "code": 529,
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1": 0.6667,
+      "support": 2,
+      "method": "02_bertje"
+    },
+    {
+      "code": 532,
+      "precision": 0.5474,
+      "recall": 0.8525,
+      "f1": 0.6667,
+      "support": 61,
+      "method": "02_bertje"
+    },
+    {
+      "code": 536,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 1,
+      "method": "02_bertje"
+    },
+    {
+      "code": 537,
+      "precision": 0.9826,
+      "recall": 0.9956,
+      "f1": 0.9891,
+      "support": 454,
+      "method": "02_bertje"
+    },
+    {
+      "code": 538,
+      "precision": 0.9655,
+      "recall": 0.875,
+      "f1": 0.918,
+      "support": 64,
+      "method": "02_bertje"
+    },
+    {
+      "code": 539,
+      "precision": 0.3333,
+      "recall": 0.2,
+      "f1": 0.25,
+      "support": 5,
+      "method": "02_bertje"
+    },
+    {
+      "code": 540,
+      "precision": 1.0,
+      "recall": 0.6667,
+      "f1": 0.8,
+      "support": 3,
+      "method": "02_bertje"
+    },
+    {
+      "code": 541,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 542,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 543,
+      "precision": 0.8333,
+      "recall": 0.8696,
+      "f1": 0.8511,
+      "support": 23,
+      "method": "02_bertje"
+    },
+    {
+      "code": 545,
+      "precision": 0.7857,
+      "recall": 0.8166,
+      "f1": 0.8009,
+      "support": 229,
+      "method": "02_bertje"
+    },
+    {
+      "code": 546,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 547,
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1": 0.6667,
+      "support": 2,
+      "method": "02_bertje"
+    },
+    {
+      "code": 554,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 556,
+      "precision": 1.0,
+      "recall": 0.3333,
+      "f1": 0.5,
+      "support": 3,
+      "method": "02_bertje"
+    },
+    {
+      "code": 560,
+      "precision": 0.4286,
+      "recall": 0.6667,
+      "f1": 0.5217,
+      "support": 9,
+      "method": "02_bertje"
+    },
+    {
+      "code": 564,
+      "precision": 0.9082,
+      "recall": 0.9175,
+      "f1": 0.9128,
+      "support": 97,
+      "method": "02_bertje"
+    },
+    {
+      "code": 566,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 569,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 572,
+      "precision": 0.6018,
+      "recall": 0.6538,
+      "f1": 0.6267,
+      "support": 104,
+      "method": "02_bertje"
+    },
+    {
+      "code": 579,
+      "precision": 0.72,
+      "recall": 0.9,
+      "f1": 0.8,
+      "support": 20,
+      "method": "02_bertje"
+    },
+    {
+      "code": 580,
+      "precision": 0.6923,
+      "recall": 0.8182,
+      "f1": 0.75,
+      "support": 33,
+      "method": "02_bertje"
+    },
+    {
+      "code": 581,
+      "precision": 0.8889,
+      "recall": 0.9697,
+      "f1": 0.9275,
+      "support": 33,
+      "method": "02_bertje"
+    },
+    {
+      "code": 583,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 585,
+      "precision": 0.9759,
+      "recall": 0.9939,
+      "f1": 0.9848,
+      "support": 163,
+      "method": "02_bertje"
+    },
+    {
+      "code": 588,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "02_bertje"
+    },
+    {
+      "code": 591,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 593,
+      "precision": 0.4,
+      "recall": 1.0,
+      "f1": 0.5714,
+      "support": 2,
+      "method": "02_bertje"
+    },
+    {
+      "code": 597,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "02_bertje"
+    },
+    {
+      "code": 598,
+      "precision": 0.6667,
+      "recall": 1.0,
+      "f1": 0.8,
+      "support": 2,
+      "method": "02_bertje"
+    },
+    {
+      "code": 601,
+      "precision": 0.2,
+      "recall": 0.5,
+      "f1": 0.2857,
+      "support": 2,
+      "method": "02_bertje"
+    },
+    {
+      "code": 604,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 2,
+      "method": "02_bertje"
+    },
+    {
+      "code": 606,
+      "precision": 0.983,
+      "recall": 0.9747,
+      "f1": 0.9788,
+      "support": 829,
+      "method": "02_bertje"
+    },
+    {
+      "code": 607,
+      "precision": 0.4545,
+      "recall": 1.0,
+      "f1": 0.625,
+      "support": 5,
+      "method": "02_bertje"
+    },
+    {
+      "code": 608,
+      "precision": 0.7143,
+      "recall": 1.0,
+      "f1": 0.8333,
+      "support": 5,
+      "method": "02_bertje"
+    },
+    {
+      "code": 609,
+      "precision": 0.6364,
+      "recall": 0.875,
+      "f1": 0.7368,
+      "support": 8,
+      "method": "02_bertje"
+    },
+    {
+      "code": 610,
+      "precision": 0.4375,
+      "recall": 0.7778,
+      "f1": 0.56,
+      "support": 9,
+      "method": "02_bertje"
+    },
+    {
+      "code": 611,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "02_bertje"
+    },
+    {
+      "code": 613,
+      "precision": 1.0,
+      "recall": 0.3333,
+      "f1": 0.5,
+      "support": 3,
+      "method": "02_bertje"
+    },
+    {
+      "code": 614,
+      "precision": 0.3333,
+      "recall": 0.5,
+      "f1": 0.4,
+      "support": 2,
+      "method": "02_bertje"
+    },
+    {
+      "code": 616,
+      "precision": 0.9,
+      "recall": 1.0,
+      "f1": 0.9474,
+      "support": 9,
+      "method": "02_bertje"
+    },
+    {
+      "code": 617,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.6667,
+      "support": 1,
+      "method": "02_bertje"
+    },
+    {
+      "code": 618,
+      "precision": 0.6667,
+      "recall": 1.0,
+      "f1": 0.8,
+      "support": 4,
+      "method": "02_bertje"
+    },
+    {
+      "code": 619,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "02_bertje"
+    },
+    {
+      "code": 620,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 621,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 622,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "02_bertje"
+    },
+    {
+      "code": 625,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 627,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 628,
+      "precision": 0.7,
+      "recall": 1.0,
+      "f1": 0.8235,
+      "support": 7,
+      "method": "02_bertje"
+    },
+    {
+      "code": 629,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 630,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 631,
+      "precision": 0.8,
+      "recall": 0.8,
+      "f1": 0.8,
+      "support": 5,
+      "method": "02_bertje"
+    },
+    {
+      "code": 633,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 6,
+      "method": "02_bertje"
+    },
+    {
+      "code": 634,
+      "precision": 0.4211,
+      "recall": 0.8889,
+      "f1": 0.5714,
+      "support": 9,
+      "method": "02_bertje"
+    },
+    {
+      "code": 635,
+      "precision": 0.75,
+      "recall": 1.0,
+      "f1": 0.8571,
+      "support": 3,
+      "method": "02_bertje"
+    },
+    {
+      "code": 636,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 641,
+      "precision": 0.6667,
+      "recall": 0.75,
+      "f1": 0.7059,
+      "support": 8,
+      "method": "02_bertje"
+    },
+    {
+      "code": 642,
+      "precision": 0.2308,
+      "recall": 0.25,
+      "f1": 0.24,
+      "support": 12,
+      "method": "02_bertje"
+    },
+    {
+      "code": 644,
+      "precision": 0.6,
+      "recall": 0.7059,
+      "f1": 0.6486,
+      "support": 17,
+      "method": "02_bertje"
+    },
+    {
+      "code": 649,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 651,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 652,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 653,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 655,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 656,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 2,
+      "method": "02_bertje"
+    },
+    {
+      "code": 661,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 662,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "02_bertje"
+    },
+    {
+      "code": 663,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 667,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 668,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 1,
+      "method": "02_bertje"
+    },
+    {
+      "code": 670,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 671,
+      "precision": 0.7692,
+      "recall": 0.8696,
+      "f1": 0.8163,
+      "support": 23,
+      "method": "02_bertje"
+    },
+    {
+      "code": 674,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1,
+      "method": "02_bertje"
+    },
+    {
+      "code": 677,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 696,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    },
+    {
+      "code": 703,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0,
+      "method": "02_bertje"
+    }
+  ]
+}
